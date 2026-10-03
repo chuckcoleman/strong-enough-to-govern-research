@@ -22,7 +22,7 @@ Electoral design is retained only as structural reinforcement. Formal voting pro
 
 ## STV engineering result
 
-The separate private STV repository analyzed 1,049 Scottish elections from 2012–2022. A 4-rank cap changed 14 winner sets; 5 changed 7; 6 changed 1; 7 and 8 changed none. Portland 2024 provides a six-column U.S. implementation case but is source-censored above rank 6. These results are engineering evidence, not evidence that STV improves democratic resilience.
+The separate private STV repository analyzed 1,049 Scottish elections from 2012–2022. A 4-rank cap changed 14 winner sets; 5 changed 7; 6 changed 1; 7 and 8 changed none. Portland 2024 provides a six-column U.S. implementation case but is source-censored above rank 6. These results are engineering evidence only: the absence of winner-set changes under a tested ranking cap must not be interpreted as evidence that STV improves democratic resilience. The pinned-source pipeline, unit tests, complete outputs, and source checksums were revalidated successfully in GitHub Actions run 9 on 2026-10-03.
 
 ## Remaining manuscript research
 
